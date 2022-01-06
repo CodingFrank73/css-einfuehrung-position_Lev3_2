@@ -25,13 +25,18 @@ section{
     border-radius: 1em;
 }
 h1{
-    margin: 2.3em 1em 0em 1em;
+    top:2.5em;
+    left: 1.2em;
+    position: absolute;
     font-size: 2rem;
     text-decoration: underline;
 }
 
 p{
-    margin: 1.5em 3em 0em 1.8em;
+    position: absolute;
+    top: 7em;
+    left: 2.1em;
+    padding-right: 5em;
 }
 
 i{
